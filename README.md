@@ -25,8 +25,6 @@ Screens include:
 - Passenger Details
 - Payment Screen
 
-## Folder Structure
-
 ## Outcome
 The redesign improves task flow, reduces visual clutter, and provides a smoother booking experience compared to the original app.
 
